@@ -1,4 +1,3 @@
-# AnonymousForReview
 # Differential-Privacy-vs-Deep-Learning-Inference
 Implementation of "Can Differential Privacy Practically Protect Collaborative Deep Learning Inference against Data Reconstruction Attack?" in [ASIACCS 2022](https://asiaccs2022.conferenceservice.jp/).
 
