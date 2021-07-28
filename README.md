@@ -3,4 +3,4 @@ Implementation of "Can Differential Privacy Practically Protect Collaborative De
 
 ![Overview of Collaborative Inference](https://user-images.githubusercontent.com/74033134/98463126-71397c00-21fc-11eb-9fad-33682cb9fd9d.jpg)
 
-This repo. provides the source code for the experiments in the paper entitled "paper title
+This repo. provides the source code for the experiments in the paper entitled "paper title". The repo. will be updated upon paper acceptance.
